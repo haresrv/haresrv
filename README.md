@@ -1,6 +1,6 @@
 ### Welcome to Hare Sankaran RV's Github 👋
  
- <img src="sp2.jpeg" width="500">
+ <img src="https://github.com/haresrv/haresrv/blob/master/sp2.jpeg" width="500">
  
  - 🔭 UG Student 🌱 Budding Engineer
  - 👯 I’m looking to collaborate on anything. Ping me...
