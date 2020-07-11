@@ -1,8 +1,9 @@
 ### Welcome to Hare Sankaran RV's Github 👋
-
-- 🔭 UG Student
-- 🌱 I’m currently focused on coding skills
-- 👯 I’m looking to collaborate on anything. Ping me...
+ 
+ <img src="sp2.jpeg" width="500">
+ 
+ - 🔭 UG Student 🌱 Budding Engineer
+ - 👯 I’m looking to collaborate on anything. Ping me...
 
 - 💬 Ask me about ...
       
