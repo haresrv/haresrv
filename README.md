@@ -1,16 +1,19 @@
-### Hi there 👋
+### Welcome to Hare Sankaran RV's Github 👋
 
-<!--
-**haresrv/haresrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 UG Student
+- 🌱 I’m currently focused on coding skills
+- 👯 I’m looking to collaborate on anything. Ping me...
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      
+     - :art: ReactJS
+     - :hourglass_flowing_sand: Machine Learning
+     - :hourglass_flowing_sand: Deep Learning
+     - :hearts: Cricket
+     - :grin: Pro Wrestling
+     - 😄 Web series Suggestions
+      
+- 📫 How to reach me: 
+     - :bird: [![Twitter](https://img.shields.io/twitter/follow/itz_srv.svg?style=social&label=@itz_srv)](https://twitter.com/itz_srv)
+     - :small_red_triangle_down: [LinkedIn](https://linkedin.com/in/haresrv2000)
+
