@@ -1,18 +1,9 @@
 ### Welcome to Hare Sankaran RV's Github 👋
  
- <img src="https://github.com/haresrv/haresrv/blob/master/sp2.jpeg" width="500">
-
+ 
  - 🔭 UG Student 🌱 Budding Engineer
  - 👯 I’m looking to collaborate on anything. Ping me...
 
-- 💬 Ask me about ...
-      
-     - :art: ReactJS
-     - :hourglass_flowing_sand: Machine Learning
-     - :hourglass_flowing_sand: Deep Learning
-     - :hearts: Cricket
-     - :grin: Pro Wrestling
-     - 😄 Web series Suggestions
       
 - 📫 How to reach me: 
 [![Twitter Badge](https://img.shields.io/badge/-@itz_srv-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/itz_srv)](https://twitter.com/itz_srv) [![Linkedin Badge](https://img.shields.io/badge/-haresrv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haresrv2000/)](https://www.linkedin.com/in/haresrv2000/) [![Gmail Badge](https://img.shields.io/badge/-haresrv-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haresrv2000@gmail.com)](mailto:haresrv2000@gmail.com)
