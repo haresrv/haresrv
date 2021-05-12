@@ -8,8 +8,8 @@
 ```python
 def haresrv():
   skills = ['C++','Python','SQL','ReactJS','NodeJS','HTML & CSS'}
-  tools = ['Tensorflow Object Detection API','numpy', 'pandas', 'sklearn','matplotlib', 'seaborn', 'keras', 'flask']
-  cloud_knowledge = ['AWS certified cloud practitioner']
+  tools = ['Kubernetes','Docker','Tensorflow Object Detection API', 'pandas', 'sklearn','keras', 'flask']
+  cloud_knowledge = ['AWS certified cloud practitioner','Jenkins CICD','CircleCI','AutoDevOps']
   return ∞
 ```
 
