@@ -5,6 +5,8 @@
 - 🎓 Software Engineer.. 
 - 📌 Scroll down to see my **Pinned Repositories**.
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/haresrv)
+
 ```python
 def haresrv():
   skills = ['C++','Python','SQL','ReactJS','NodeJS','HTML & CSS'}
@@ -18,4 +20,4 @@ def haresrv():
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=haresrv" alt="https://github.com/haresrv" /> </p>
 
-</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=haresrv&show_icons=true" alt="https://github.com/haresrv" /> </p>
+</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=haresrv&show_icons=true&theme=blue-green" alt="https://github.com/haresrv" /> </p>
