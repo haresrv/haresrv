@@ -1,15 +1,15 @@
 ### Welcome to Hare Sankaran RV's Github 👋
 
-<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
+<img align='right' src="https://github.com/haresrv/haresrv/blob/master/OK.gif" width="210">
 
-- 🎓 I'm currently pursuing **BTech CSE** (Final Year) from **Amrita School of Engineering, Coimbatore**.
-- 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
+- 🎓 Software Engineer.. 
 - 📌 Scroll down to see my **Pinned Repositories**.
+
 ```python
 def haresrv():
   skills = ['C++','Python','SQL','ReactJS','NodeJS','HTML & CSS'}
   tools = ['Kubernetes','Docker','Tensorflow Object Detection API', 'pandas', 'sklearn','keras', 'flask']
-  cloud_knowledge = ['AWS certified cloud practitioner','Jenkins CICD','CircleCI','AutoDevOps']
+  cloud_knowledge = ['AWS certified cloud practitioner','Gitlab CI','Jenkins CICD','CircleCI']
   return ∞
 ```
 
